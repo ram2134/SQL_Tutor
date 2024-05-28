@@ -67,4 +67,4 @@ When running the program,it might happen that the postgresql database server ref
 
 After following above steps, SQL facilities will be accessible from prutor interface.
 
-<h2>All other related scripts can be found here: </h2><a href="https://github.com/akku126/Mtech_thesis_scripts">https://github.com/akku126/Mtech_thesis_scripts</a>
+<h2>All other related scripts can be found here: </h2><a href="https://github.com/ram2134/Mtech_thesis_scripts">https://github.com/ram2134/Mtech_thesis_scripts</a>
